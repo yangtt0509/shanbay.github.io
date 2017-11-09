@@ -1,2 +1,1 @@
-# shanbay
-source of shanbay.github.io
+# Source of Shanbay
