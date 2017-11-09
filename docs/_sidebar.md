@@ -1,2 +1,0 @@
-- [sea](docs/sea/)
-- [sorator](docs/sorator/)

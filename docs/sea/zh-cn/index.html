@@ -9,12 +9,15 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
+  <nav>
+    <a href="/">Home</a>
+  </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
+      name: 'contents',
       loadSidebar: true,
-      subMaxLevel: 2,
-      name: 'sea(zh-cn)'
+      loadNavbar: true
     }
   </script>
   <script src="//unpkg.com/docsify"></script>

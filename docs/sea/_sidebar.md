@@ -1,1 +1,0 @@
-- [sea(zh-cn)](docs/sea/zh-cn/)

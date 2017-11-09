@@ -1,2 +1,1 @@
-- [part 1]()
-- [part 2]()
+- [Installation](installation)

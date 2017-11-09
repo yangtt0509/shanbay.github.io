@@ -1,1 +1,0 @@
-- [sorator(zh-cn)](docs/sorator/zh-cn/)

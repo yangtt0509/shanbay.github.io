@@ -9,14 +9,21 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
+  <nav>
+    <a href="/">Home</a>
+  </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      loadSidebar: true,
-      subMaxLevel: 2,
-      name: 'contents'
+      name: 'contents',
+      repo: 'Shanbay',
+      externalLinkTarget: '_self',
+      coverpage: true,
+      noCompileLinks: [
+        'docs/*',
+      ]
     }
   </script>
-  <script src="//unpkg.com/docsify"></script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
